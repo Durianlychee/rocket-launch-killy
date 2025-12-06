@@ -31,13 +31,6 @@ This repository contains the analysis project to determine factors influencing S
 - The success rate increased significantly, reaching over 100% by 2020. This demostrates SpaceX's improving technology and experience over time
 - All four classification models (Logistic Regression, Support Vector Machine, Decision Tree, and K-Nearest Neighbors) achieved the same accuracy of 83.33% on the test set. This suggests that the problem may be equally well-suited to various classification approaches.
 
-## Setup and Installation
-1. Clone this repository
-2. Install required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-
 ## Contributors
 - Abdul Rahman Addakhili Ibrahim
 
